@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.b6376b57.chunk.css",
-    "main.js": "./static/js/main.be815846.chunk.js",
-    "main.js.map": "./static/js/main.be815846.chunk.js.map",
+    "main.css": "./static/css/main.9c38fd07.chunk.css",
+    "main.js": "./static/js/main.a104f953.chunk.js",
+    "main.js.map": "./static/js/main.a104f953.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fb7e7b0c.js",
     "runtime-main.js.map": "./static/js/runtime-main.fb7e7b0c.js.map",
-    "static/js/2.6041f64f.chunk.js": "./static/js/2.6041f64f.chunk.js",
-    "static/js/2.6041f64f.chunk.js.map": "./static/js/2.6041f64f.chunk.js.map",
+    "static/js/2.5ad0c1ea.chunk.js": "./static/js/2.5ad0c1ea.chunk.js",
+    "static/js/2.5ad0c1ea.chunk.js.map": "./static/js/2.5ad0c1ea.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.0adf11b9eda5ef5c771afa10a57561a0.js": "./precache-manifest.0adf11b9eda5ef5c771afa10a57561a0.js",
+    "precache-manifest.46f48ff89a82cf71692b998067daa622.js": "./precache-manifest.46f48ff89a82cf71692b998067daa622.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.b6376b57.chunk.css.map": "./static/css/main.b6376b57.chunk.css.map",
+    "static/css/main.9c38fd07.chunk.css.map": "./static/css/main.9c38fd07.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/Ashutosh_Hathidara_Resume_ML.pdf": "./static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
+    "static/media/backend_logo.png": "./static/media/backend_logo.ba53c5bd.png",
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "./static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "./static/media/contactMail.5f915405.png",
+    "static/media/cv.pdf": "./static/media/cv.65d50f31.pdf",
     "static/media/data_science.svg": "./static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "./static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "./static/media/developerActivity.3e23ca14.svg",
@@ -39,6 +40,7 @@
     "static/media/iu_logo.png": "./static/media/iu_logo.60ed0bd3.png",
     "static/media/jsFramework.svg": "./static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "./static/media/legato_logo.c597fbde.png",
+    "static/media/levi9_logo.webp": "./static/media/levi9_logo.851b31f2.webp",
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "./static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "./static/media/nptel_logo.95a12a2b.png",
@@ -50,12 +52,14 @@
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "./static/media/tiktok_logo.0993e324.png",
-    "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg"
+    "static/media/ub_logo.png": "./static/media/ub_logo.fa5dfe39.png",
+    "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg",
+    "static/media/zuhike_logo.webp": "./static/media/zuhike_logo.d0835251.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.fb7e7b0c.js",
-    "static/js/2.6041f64f.chunk.js",
-    "static/css/main.b6376b57.chunk.css",
-    "static/js/main.be815846.chunk.js"
+    "static/js/2.5ad0c1ea.chunk.js",
+    "static/css/main.9c38fd07.chunk.css",
+    "static/js/main.a104f953.chunk.js"
   ]
 }
