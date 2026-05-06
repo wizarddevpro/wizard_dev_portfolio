@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Mirko Milicevic — AI & Backend Engineer",
     type: "website",
-    url: "https://www.linkedin.com/in/mirko-milicevic-80141a36b/",
+    url: "https://www.linkedin.com/in/mirko-miličević-80141a36b/",
   },
 };
 
@@ -23,11 +23,12 @@ const greeting = {
   logo_name: "Mirko Milicevic",
   nickname: "",
   subTitle:
-    "Backend and AI engineer with 6+ years shipping production systems. I focus on API architecture, model integration, and the infrastructure work that keeps services reliable under real load.",
+    "Senior Software Engineer with 8+ years shipping production systems. I focus on API architecture, model integration, and the infrastructure work that keeps services reliable under real load.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://www.linkedin.com/in/mirko-milicevic-80141a36b/",
-  githubProfile: "https://www.linkedin.com/in/mirko-milicevic-80141a36b/",
+    "https://drive.google.com/file/d/1zjKHHRISKtDIUPU4Wo10kpk9HhCmgtPk/view?usp=sharing",
+  portfolio_repository:
+    "https://www.linkedin.com/in/mirko-miličević-80141a36b/",
+  githubProfile: "https://github.com/wizarddevpro",
 };
 
 const socialMediaLinks = [
@@ -42,7 +43,7 @@ const socialMediaLinks = [
 
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/mirko-milicevic-80141a36b/",
+    link: "https://www.linkedin.com/in/mirko-miličević-80141a36b/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -384,7 +385,7 @@ const certifications = {
     {
       title: "Back-End Development and APIs",
       subtitle: "- freeCodeCamp",
-      logo_path: "ub_logo.png",
+      logo_path: "googleAssistant.svg",
       // certificate_link:
       //   "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
       alt_name: "freeCodeCamp",
@@ -393,7 +394,7 @@ const certifications = {
     {
       title: "Front-End Development and APIs",
       subtitle: "- freeCodeCamp",
-      logo_path: "ub_logo.png",
+      logo_path: "jsFramework.svg",
       // certificate_link:
       //   "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
       alt_name: "freeCodeCamp",
@@ -402,7 +403,7 @@ const certifications = {
     {
       title: "Ruby on Rails Developer Certificate",
       subtitle: "- The Odin Project",
-      logo_path: "ub_logo.png",
+      logo_path: "legato_logo.png",
       // certificate_link:
       //   "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
       alt_name: "The Odin Project",
@@ -528,7 +529,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "ub_logo.png",
+    profile_image_path: "animated_ashutosh.png",
     description:
       "Open to senior AI and backend engineering roles. Happy to talk about the right fit — reach out directly.",
   },
@@ -536,7 +537,7 @@ const contactPageData = {
     title: "Professional Profile",
     subtitle:
       "Find me on LinkedIn — I post occasionally about backend architecture, AI engineering, and things I find worth writing down.",
-    link: "https://www.linkedin.com/in/mirko-milicevic-80141a36b/",
+    link: "https://www.linkedin.com/in/mirko-miličević-80141a36b/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
